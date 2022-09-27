@@ -1,0 +1,179 @@
+
+@media (max-width:1130px) {
+
+    .main__card{
+    flex-direction: column;
+    }
+}
+
+
+@media (max-width:950px) {
+
+    .nav__content{
+    flex-direction: column;
+    row-gap: 20px;
+    }
+
+    .main__title{
+    padding: 35px 0 40px;
+    }
+
+    .main__text{
+    font-size: 16px;
+    }
+
+    .main__content{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    }
+
+    .tit{
+    text-align: center;
+    }
+
+    .contacts__text{
+    font-size: 18px;
+    }
+
+}
+
+
+
+
+@media (max-width:732px) {
+
+    .contacts{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    }
+
+    .contacts__text{
+    text-align: center;
+    }
+
+}
+
+
+
+@media (max-width:1200px) {}
+
+
+
+
+@media (max-width:600px) {
+
+    .header__content{
+    padding-top: 165px;
+    }
+
+    .header__content-title{
+    font-size: 65px;
+    line-height: 60px;
+    }
+
+    .header__content-tit{
+    font-size: 30px;
+    line-height: 30px;
+    padding-bottom: 20px;
+    }
+
+    .main__img{
+    width: 420px;
+    }
+
+}
+
+
+@media (max-width:500px) {
+
+.header__content-title{
+font-size: 55px;
+}
+
+.header__content-tit{
+font-size: 25px;
+line-height: 20px;
+}
+
+.header__btn{
+padding: 10px 70px;
+font-size: 16px;
+}
+
+.main__title{
+font-size: 30px;
+padding: 25px 0 25px;
+}
+
+.main__text{
+font-size: 15px;
+}
+
+.main__img{
+width: 350px;
+}
+
+.contacts__text{
+font-size: 15px;
+}
+
+
+
+}
+
+
+@media (max-width:400px) {
+
+.nav__img{
+width: 80px;
+}
+
+.nav__list-item{
+font-size: 14px;
+}
+
+.nav__btn{
+max-width: 250px;
+}
+
+.nav__search{
+padding-left: 12px;
+font-size: 14px;
+}
+
+.header__content-title{
+font-size: 45px;
+line-height: 50px;
+}
+
+.header__content-tit{
+    font-size: 22px;
+    line-height: 14px;
+    }
+
+    .header__content{
+    padding-top: 200px;
+    }
+
+    .main__text{
+    font-size: 13px;
+    }
+
+    .main__img{
+        width: 300px;
+    }
+
+    .contacts__text{
+    font-size: 13px;
+    }
+
+    .footer__list-item{
+    font-size: 14px;
+    }
+
+
+}
